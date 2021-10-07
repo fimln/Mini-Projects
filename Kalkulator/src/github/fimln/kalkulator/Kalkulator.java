@@ -26,7 +26,7 @@ public class Kalkulator {
                 hasil = angka1 + angka2;
                 break;
             case '-' :
-                hasil = angka1 + angka2;
+                hasil = angka1 - angka2;
                 break;
             case '*' :
                 hasil = angka1 * angka2;
